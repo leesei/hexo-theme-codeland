@@ -12,14 +12,15 @@ fancybox: true
 sidebar: right
 widgets:
 - category
-- recent_posts
-- tagcloud
-- archive
+- tag
+# - recent_posts
+# - tagcloud
+# - archive
 
 # Miscellaneous
-google_analytics: 
+google_analytics: UA-57476091-1
 favicon: /favicon.ico
-twitter: 
+twitter:
 google_plus:
 fb_admins:
 fb_app_id:
